@@ -6,8 +6,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".SplashScreen">
+    tools:context=".SplashScreen"
+    android:gravity="center">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/mentor_logo"
+        android:layout_gravity="center_horizontal"/>
 
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pro Mentor"
+        android:textColor="#FF9800"
+        android:textSize="40dp"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"/>
 </LinearLayout>
