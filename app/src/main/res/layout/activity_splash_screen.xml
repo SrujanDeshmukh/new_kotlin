@@ -8,12 +8,11 @@
     android:orientation="vertical"
     tools:context=".SplashScreen"
     android:gravity="center">
-
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:src="@drawable/mentor_logo"
-        android:layout_gravity="center_horizontal"/>
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/mentor_logo" />
 
     <TextView
         android:layout_width="match_parent"
