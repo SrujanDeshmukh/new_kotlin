@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88887610164",
+    "project_id": "careercompany-d1e23",
+    "storage_bucket": "careercompany-d1e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88887610164:android:70e6869d4ad46c8a793361",
+        "android_client_info": {
+          "package_name": "com.example.career_company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpFN4AyonFcr0ecgvyuNMJ17hyYVesbz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
