@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">career_company</string>
+    <string-array name="list">
+        <item>Student</item>
+        <item>Mentor</item>
+    </string-array>
 </resources>
