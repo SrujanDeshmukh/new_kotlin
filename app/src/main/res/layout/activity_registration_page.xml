@@ -17,7 +17,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="By creating an \n account,\n you may receive \nnew opportunity"
+            android:text="By creating an \n account,\n you may receive \n new opportunity"
             android:textColor="#FF9800"
             android:textSize="22dp"
             android:textStyle="bold" />
@@ -128,11 +128,11 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="do you have account?"/>
+            android:text="Already have account?"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sign up"
+            android:text=" Sign In"
             android:textColor="#FF9800"/>
         </LinearLayout>
 
